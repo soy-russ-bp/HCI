@@ -5,7 +5,6 @@
 ## Users and Stakeholders
 We are primarily targeting individuals starting their professional journeys in IT-related fields who possess the necessary technical knowledge but need to develop essential soft skills to excel in their roles.
 
-
 ## Are Soft Skills Really That Important?
 
 Soft skills, such as communication, teamwork, and problem-solving, are crucial in the workplace.Research indicates that over 70% of the skills employers are looking for when hiring fall into the category of soft skills
