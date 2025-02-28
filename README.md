@@ -1,6 +1,6 @@
 # Ad Astra
 ---
-**Ad Astra** is a mobile application designed to provide users with accessible and effective tools to enhance their **Soft Skills**.
+**Ad Astra** is a product designed to provide users with accessible and effective tools to enhance their **Soft Skills**.
 
 ## Users and Stakeholders
 We are primarily targeting individuals starting their professional journeys in IT-related fields who possess the necessary technical knowledge but need to develop essential soft skills to excel in their roles.
