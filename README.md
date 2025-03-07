@@ -13,3 +13,12 @@ Soft skills, such as communication, teamwork, and problem-solving, are crucial i
 
 ## The Value We Provide
 Ad Astra offers a platform for users to practice and improve their soft skills, improving their job performance and opening up new career opportunities.
+
+## Innovation
+Ad Astra offers a different way to teach the users soft skills, prioritizing the practice instead of just giving information.
+
+## Motivation
+In a world where soft skills are now considered important and current options do not provide users with what they really want, a platform that addresses those needs should be important.
+
+## Relevance
+The platform provides users with the tools they need to have the skills they want and be able to meet market needs. This is because soft skills are getting more attention than ever.
