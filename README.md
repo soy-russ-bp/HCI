@@ -1,4 +1,8 @@
 # Ad Astra
+
+<img src="Assets/Ad%20astra-top%20of%20the%20page.png" width="1100" height="240"/>
+
+
 ---
 **Ad Astra** is a product designed to provide users with accessible and effective tools to enhance their **Soft Skills**.
 
@@ -25,3 +29,18 @@ The platform provides users with the tools they need to have the skills they wan
 
 ## Project organizaction:
 [Here](https://github.com/users/soy-russ-bp/projects/2)
+
+## Artifacts:
+
+[Personas]()
+
+[scenarios]()
+
+[Requirements]()
+
+
+
+## Presentation:
+
+[Nuestro video]()
+
