@@ -32,6 +32,8 @@ The platform provides users with the tools they need to have the skills they wan
 
 ## Artifacts:
 
+[Information collected](Deliverables/results.pdf)
+
 [Personas](Deliverables/Personas_V1.pdf)
 
 [Scenarios](Deliverables/Scenarios.pdf)
