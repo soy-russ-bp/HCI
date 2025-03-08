@@ -22,3 +22,6 @@ In a world where soft skills are now considered important and current options do
 
 ## Relevance
 The platform provides users with the tools they need to have the skills they want and be able to meet market needs. This is because soft skills are getting more attention than ever.
+
+## Project organizaction:
+[Here](https://github.com/users/soy-russ-bp/projects/2)
