@@ -32,17 +32,17 @@ The platform provides users with the tools they need to have the skills they wan
 
 ## Artifacts:
 
-[Information collected](Deliverables/results.pdf)
+* [Information collected from the survey](Deliverables/Results.pdf)
 
-[Personas](Deliverables/Personas_V1.pdf)
+* [Personas](Deliverables/Personas_V1.pdf)
 
-[Scenarios](Deliverables/Scenarios.pdf)
+* [Scenarios](Deliverables/Scenarios.pdf)
 
-[Requirements](Deliverables/Requirements_V1.pdf)
+* [Requirements](Deliverables/Requirements_V1.pdf)
 
 
 
 ## Presentation:
 
-[Nuestro video]()
+[Our video]()
 
