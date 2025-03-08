@@ -32,11 +32,11 @@ The platform provides users with the tools they need to have the skills they wan
 
 ## Artifacts:
 
-[Personas]()
+[Personas](Deliverables/Personas_V1.pdf)
 
-[scenarios]()
+[Scenarios](Deliverables/Scenarios.pdf)
 
-[Requirements]()
+[Requirements](Deliverables/Requirements_V1.pdf)
 
 
 
