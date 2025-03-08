@@ -28,6 +28,11 @@ In a world where soft skills are now considered important and current options do
 The platform provides users with the tools they need to have the skills they want and be able to meet market needs. This is because soft skills are getting more attention than ever.
 
 ## Project organizaction:
+
+[Here](Planning/project_organization.pdf)
+
+In the future we will use github projects:
+
 [Here](https://github.com/users/soy-russ-bp/projects/2)
 
 ## Artifacts:
@@ -44,5 +49,5 @@ The platform provides users with the tools they need to have the skills they wan
 
 ## Presentation:
 
-[Our video]()
+[Our video](https://www.youtube.com/watch?v=rq2Jrm8xwzE)
 
