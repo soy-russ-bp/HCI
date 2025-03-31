@@ -7,3 +7,6 @@ Lean UX is a technique based on making assumptions about ways we can provide val
 However, I also believe that **`had we implemented lean UX from the beginning of our project it would have hindered us gravely.`** Lean UX is based on implementing small changes to your product that will bit by bit improve the final result, if your initial guess is good enough then lean UX will quickly get you to a very high quality product, but, **`if you start with a complete misunderstanding of your users (like we did) it will take you a long time before your product is actually providing value to them.`**
 
 This can be easily avoided by having a more traditional UX approach at the beginning of a project than then becomes “leaner” once we can make informed assumptions instead of blindly guessing.
+
+## Sources
+1 - Interaction Design Foundation. 2021. A Simple Introduction to Lean UX. Retrieved March 30, 2025, from https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux
