@@ -15,6 +15,7 @@ The effectiveness of this feature could be tested by tracking:
 - How long do users spend on the app.
 - How many lessons do they do in one session.
 - Does user retention increase when close to a milestone?
+
 These metrics would have to be compared to a version of the app without the progress tracking feature to ensure that they do improve.
  
 ## Sources
