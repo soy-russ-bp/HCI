@@ -1,4 +1,4 @@
-## AI Tools
+# AI Tools
 Using AI to produce UI has been something new to me. I used ChatGPT as my AI tool. First, I had to think about the prompts for a learning app (something similar to my project). At first glance, the result looked good and, in my opinion, ChatGPT did a better job than I could have done, but after analyzing probably the AI job wasn’t perfect.
 
 The interfaces were responsive, attractive, the elements were clear, the structure was good and the generated code followed good practices such as semantic tags. But it was hard to use some parts of the interfaces, for example, there were no filters or categories for the activities, thing that surprised me because I specified this part in the prompts. The quality of the UI was regular, being the visual part the best one and the interaction the worst one, **making me realize that we must prioritize and check twice how easy it is to use the UI if it was created by ChatGPT or any other AI**. 
