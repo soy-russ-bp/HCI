@@ -1,5 +1,5 @@
 # Usability vs UX
-*Jose Luis Lara Rubio*
+*José Luis Lara Rubio*
 
 Both UX and HCI focus on improving the interaction between people and technology, UX being a subset of HCI. UX considers the entire journey of a user with the product, including how the user feels before, during and after interacting with it, focusing on feelings and emotions. [[1]](https://medium.com/design-bootcamp/human-computer-interaction-not-vs-user-experience-design-a893caa5d134)
 

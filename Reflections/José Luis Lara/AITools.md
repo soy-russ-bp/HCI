@@ -1,0 +1,8 @@
+# AI Tools
+*José Luis Lara Rubio*
+
+AI chats (Chat gpt, Deepseek, Claude, etc.) are great for getting things done quickly and can be of great use if you already know what you want to build and only need to type it out, especially if you aren’t particularly worried about the quality of the resulting code. This makes them pretty much perfect for prototyping changes very quickly and efficiently, however, **`you still have to know what to prototype, and this can be way trickier than it seems when working in UX`**
+
+As I mentioned on my [ProcessingHCI](./ProcessingHCI.md) reflection, going in blindly when you start prototyping is a very dangerous practice that can lead to building a product that no one gets real value form. **`AI does not know who your users are, you have to find that out yourself`**, and once you do, you also have to figure out how to translate the information gathered into attributes that will benefit them. In my experience **`trying to have AI do this for me has always made me end up with extremely general advice that only applies to my use case because it literally applies to anyone`**. It is for these reasons that I don’t believe the UX role will change significantly with the current AI tools available, yes, we will be able to create and test prototypes more quickly (which is great), but at least for now there is no replacing the insight you can get from knowing, analyzing and understanding your users and their needs.
+
+Another thing that I believe is worth mentioning is that **`relying excessively on AI to do your job probably makes you way more productive today but at the cost of never truly mastering anything`**
