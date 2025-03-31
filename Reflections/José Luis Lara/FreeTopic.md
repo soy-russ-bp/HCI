@@ -9,6 +9,6 @@ I initially had a very negative reaction to "discovering" this fact, but the mor
 
 However, **`if I want to access a site, it usually means I am expecting a fun or interesting experience to come from it`**, this expectation can be quickly shattered if the website happens to look just like every other one I use daily.
 
-Maybe this change is a result of a more mature web having more widely adopted conventions, but maybe it is a result of the kind of sites I visit, when I was a child I really didn't get any use from the web, other than having fun exploring and playing games I found, now I use it mainly as a means to access what I need, there is not much discovery going on.
+Maybe this change is a result of a more mature web having more widely adopted conventions, but maybe it is a result of the kind of sites I visit. When I was a child I really didn't get any use from the web, other than having fun exploring and playing games I found, now I use it mainly as a means to access what I need, there is not much discovery going on.
 
 The problem is that when I am designing a website, I want it to feel like the ones I used to visit, but realistically this comes from a desire to re-live past experiences rather than providing value to my users. I guess the point of this reflection is to keep in mind that **`there exist situations where defying conventions is a good idea. It is just a matter of knowing why users might access your site and taking advantage of it.`**
