@@ -19,5 +19,7 @@ These metrics would have to be compared to a version of the app without the prog
  
 ## Sources
 1 -	Gupta, S.S. 2023. Human-Computer Interaction & (not vs.) User Experience Design. Bootcamp. https://medium.com/design-bootcamp/human-computer-interaction-not-vs-user-experience-design-a893caa5d134 
+
 2 -	Interaction Design Foundation. 2023. The 7 Factors that Influence User Experience. https://www.interaction-design.org/literature/article/the-7-factors-that-influence-user-experience 
+
 3 -	International Organization for Standardization. 2018. Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts (ISO 9241-11:2018). https://www.iso.org/obp/ui/en/#iso:std:iso:9241:-11:ed-2:v1:en 
