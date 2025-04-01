@@ -1,0 +1,7 @@
+# AI Tools
+*José Angel Magaña García*
+
+I consider that jumping into prototyping without a **`clear direction`** is risky and can lead to creating a product that provides little real value. AI doesn’t inherently understand your users—you have to identify them yourself. Even after that, translating user insights into meaningful design decisions is a task that AI struggles with. In my experience, when I’ve tried to rely on AI for this, I’ve ended up with generic advice that feels applicable to everyone but lacks the depth needed for my specific use case. Because of this, I don’t believe the UX role will change significantly with current AI tools. While they allow for **`faster prototyping and testing`** (which is undoubtedly beneficial), they can’t replace the deeper understanding that comes from truly knowing, analyzing, and interpreting user needs.
+AI chat tools are incredibly useful for speeding up tasks, especially when you already have a clear idea of what you want to build and just need to put it into words. If code quality isn’t your main concern, these tools are excellent for quickly prototyping changes. However, the challenge lies in knowing what to prototype in the first place—something that can be much trickier than it seems, particularly in UX design.
+
+I would bet that AI Tools are going to help us to **`overpass limits that we tought impossible`**, rather than being a threat, it is becoming in the next **`great ally`** for the Software Engineers if used properly and in a good manner
