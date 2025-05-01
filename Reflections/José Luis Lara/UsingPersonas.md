@@ -1,4 +1,4 @@
-# AI Tools
+# UIDesignPatterns
 *José Luis Lara Rubio*
 
 We mainly used our personas to learn what we needed to focus on when building our prototype. After we actually started paying attention to them (which was much later than I'd like to admit), we finally began to understand what our user wanted from the app.
