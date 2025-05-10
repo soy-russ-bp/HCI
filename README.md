@@ -29,11 +29,40 @@ The platform provides users with the tools they need to have the skills they wan
 
 ## Project organizaction:
 
-[Here](Planning/project_organization.pdf)
-
-In the future we will use github projects:
+Tasks:
 
 [Here](https://github.com/users/soy-russ-bp/projects/2)
+
+<!-- Difficulty levels and individual contribution table -->
+<p><strong>Task difficulty levels are equivalent to points:</strong></p>
+<ul>
+  <li>Easy: 1 point</li>
+  <li>Medium: 2 points</li>
+  <li>Difficult: 3 points</li>
+</ul>
+
+<p>Therefore, individual contributions are as follows:</p>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead style="background-color:rgb(80, 112, 4);">
+    <tr>
+      <th>Member</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>José Luis Lara</td><td>3</td></tr>
+    <tr><td>Russel Bonilla</td><td>3</td></tr>
+    <tr><td>Arturo Cadena</td><td>3</td></tr>
+    <tr><td>Mateo Ortiz</td><td>3</td></tr>
+    <tr><td>Andry Rabanales</td><td>2</td></tr>
+    <tr><td>Ángel Magaña</td><td>0</td></tr>
+  </tbody>
+</table>
+
+<p>It is important to clarify that in meetings and team tasks, everyone worked and contributed.</p>
+<p>At the end, individual contributions are averaged across the 3 submissions.</p>
+
 
 ## Artifacts:
 
