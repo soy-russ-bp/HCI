@@ -45,8 +45,12 @@ In the future we will use github projects:
 
 * [Requirements](Deliverables/Requirements_V1.pdf)
 
+## Second Delivery
 
+- [Requirements](Deliverables/Requirements_V2.pdf)
 
+- Interface Prototype [[Figma](https://)] [[PDF](Deliverables/InterfacePrototype.pdf)]
+- [Affinity Diagram](Deliverables/AffinityDiagram.pdf)
 ## Presentation:
 
 [Our video](https://www.youtube.com/watch?v=rq2Jrm8xwzE)
