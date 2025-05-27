@@ -47,18 +47,19 @@ Tasks:
   <thead style="background-color:rgb(80, 112, 4);">
     <tr>
       <th>Member</th>
-      <th>Score</th>
+      <th>Score 1sr review</th> <th>Score 2nd review</th> <th>Score 3rd review</th> <th>Total score</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td>José Luis Lara</td><td>3</td></tr>
-    <tr><td>Russel Bonilla</td><td>3</td></tr>
-    <tr><td>Arturo Cadena</td><td>3</td></tr>
-    <tr><td>Mateo Ortiz</td><td>3</td></tr>
-    <tr><td>Andry Rabanales</td><td>2</td></tr>
-    <tr><td>Ángel Magaña</td><td>0</td></tr>
+    <tr><td>José Luis Lara</td><td>2</td><td>3</td><td>3</td><td>8</td></tr>
+    <tr><td>Russel Bonilla</td><td>2</td><td>3</td><td>3</td><td>8</td></tr>
+    <tr><td>Arturo Cadena</td><td>2</td><td>3</td><td>3</td><td>8</td></tr>
+    <tr><td>Mateo Ortiz</td><td>2</td><td>3</td><td>3</td><td>8</td></tr>
+    <tr><td>Andry Rabanales</td><td>2</td><td>2</td><td>4</td><td>8</td></tr>
+    <tr><td>Ángel Magaña</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
   </tbody>
 </table>
+
 
 <p>It is important to clarify that in meetings and team tasks, everyone worked and contributed.</p>
 <p>At the end, individual contributions are averaged across the 3 submissions.</p>
