@@ -66,19 +66,37 @@ Tasks:
 
 ## Artifacts:
 
-* [Information collected from the survey](Deliverables/Results.pdf)
+* [Information collected from the survey](Deliverables/User%20research/Results.pdf)
 
-* [Personas](Deliverables/Personas_V1.pdf)
+* [Personas](Deliverables/User%20research/Personas.pdf)
 
-* [Scenarios](Deliverables/Scenarios.pdf)
+* [Scenarios](Deliverables/User%20research/Scenarios.pdf)
 
-* [Requirements](Deliverables/Requirements_V1.pdf)
+* [Requirements](Deliverables/Requirements/FunctionalRequirements.pdf)
 
-## Second Delivery
+- [Non Functional Requirements](Deliverables/Requirements/NonFunctionalRequirements.pdf)
 
+- [Affinity Diagram](Deliverables/User%20research/AffinityDiagram.pdf)
 
-- [Requirements](Deliverables/Requirements_V2.pdf)
+- [Design Guidelines](Deliverables/Requirements/DesignGuidelines.pdf)
 
-- Interface Prototype [[Figma](https://www.figma.com/design/p8tzjps7eqko4mN9anSRTe/Salvar-el-semestre-2?node-id=0-1&t=nnt4M4Em7pcqVCm4-1)] [[PDF](Deliverables/InterfacePrototype.pdf)]
-- [Affinity Diagram](Deliverables/AffinityDiagram.pdf)
+- [Tracebility Matrix for Quality Attributes and Design](Deliverables/Requirements/Traceability%20Matrix%20for%20Quality%20Attributes%20and%20Design.docx)
+
+- [Interface Prototype](https://www.figma.com/design/p8tzjps7eqko4mN9anSRTe/Salvar-el-semestre-2?node-id=0-1&t=nnt4M4Em7pcqVCm4-1)
+
+## Third Delivery
+
+- [Video Presentation](https://youtu.be/StcxlerjiC8)
+
+- [Updated Non Functional Requirements](Deliverables/Requirements/NonFunctionalRequirements.pdf)
+
+- [Maze Test Survey](https://t.maze.co/392381194)
+
+- [Maze report from Previous Prototype](https://app.maze.co/report/TestAdAstra/3q82p7maf4m5og/intro)
+
+- [Test Flows](Deliverables/Usability%20Tests/Test%20Flows.pdf)
+
+- [Video of Test Flows](https://youtu.be/ztw5b6huG5s)
+
+- [Usability Tests and Recordings](https://drive.google.com/drive/folders/1V-hifsSoBt38Ai_bcuwWQTPEwVzkwqTe)
 
