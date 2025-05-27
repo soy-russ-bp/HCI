@@ -1,0 +1,7 @@
+# My experience in Diseña tu Ciudad 2025
+
+Participating in Diseña tu Ciudad was a great experience, both on a personal and professional level. My main role was assisting people during the voting process (the voting process was done using a mobile app). This tool allowed people to scan a QR code, select their preferred parks, and cast their vote quickly and easily. <mark>Throughout the day, I had the opportunity to interact with people from different technological backgrounds, this allowed me to better understand how they use technology in everyday contexts.</mark> 
+
+One of the things I value most about this experience is that it helped me become more socially open. <mark>Having to constantly communicate with strangers, explain how to use the app, and answer their questions pushed me out of my comfort zone. </mark>I think I gained confidence in speaking clearly and with empathy, which not only improved my interpersonal skills but also my ability to adapt to different types of users and their needs.
+
+Furthermore, <mark>this project gave me a more concrete perspective on what user-centered design is about.</mark> Seeing in real time how people interact with the app, and what their difficulties or confusions were, allowed me to directly observe the importance of an intuitive and accessible interface. <mark>It was a powerful reminder that behind every design decision are real people, with different backgrounds and levels of technological familiarity.</mark>
